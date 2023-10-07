@@ -2,8 +2,10 @@ import React from 'react'
 
 function App() {
   return (
-    <div>
-      <h1 className="text-blue-700 text-8xl">abcdefghijklmnopqrstuvwxyz</h1>
+    <div className="container mx-auto">
+      <h1 className="text-blue-700 text-8xl">
+        Hello <span>World!</span>
+      </h1>
     </div>
   )
 }
