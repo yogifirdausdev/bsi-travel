@@ -3,8 +3,8 @@ import logo from '../assets/jadoo.png'
 
 function Nav() {
   return (
-    <nav className="fixed top-0 left-0 right-0">
-      <div className="flex justify-between items-center container mx-auto mt-6 ">
+    <nav className="white py-6 z-50 ">
+      <div className="flex justify-between items-center container mx-auto ">
         <div>
           <img src={logo} alt="Jadoo logo" />
         </div>
