@@ -1,4 +1,9 @@
 import React from 'react'
+<<<<<<< Updated upstream
+=======
+import Hero from './components/Hero'
+import CategorySection from './components/CategorySection'
+>>>>>>> Stashed changes
 
 function App() {
   return (
